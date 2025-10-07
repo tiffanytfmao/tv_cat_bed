@@ -1,0 +1,18 @@
+/* Retro cafe aesthetic with warm colors and vintage styling */
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #f5e6d3 0%, #e8d5c4 100%);
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(101, 67, 33, 0.2), 0 2px 8px rgba(101, 67, 33, 0.1);
+  border: 3px solid #8b6f47;
+}
